@@ -1,0 +1,5 @@
+This is the README for my python code for analysing UK biobank database.
+The database is stocked in tables (lines,columns) in a .CSV file in your directory. You must precise the path of the .csv on your python code.
+the "code_ready_to_send" is the main python file, the others are modules that are used by it.
+i should also add an other subdirectory for specific python files.
+
